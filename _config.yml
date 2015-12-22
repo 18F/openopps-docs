@@ -1,5 +1,5 @@
 markdown: redcarpet
-name: 18F Guides Template
+name: Open Opportunities Documentation
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -56,15 +56,18 @@ navigation:
   internal: true
 
 repos:
-- name: Guides Template
+- name: Open Opportunities
   description: Main repository
-  url: https://github.com/18F/guides-template
+  url: https://github.com/18F/openopps-platform
+- name: Open Opportunities Documentation
+  description: Documentation repository
+  url: https://github.com/18F/openopps-docs
 
 back_link:
-  url: "https://pages.18f.gov/guides/"
-  text: Read more 18F Guides
+  url: "https://openopps.digitalgov.gov/"
+  text: Back to Open Opportunities
 
-google_analytics_ua: UA-48605964-19
+google_analytics_ua: UA-48605964-17
 
 defaults:
 - scope:
